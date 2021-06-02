@@ -1,4 +1,4 @@
-
+[![Build Status](https://www.travis-ci.com/ziyaozhang1437/Travis_CI_Tutorial.svg?branch=main)](https://www.travis-ci.com/ziyaozhang1437/Travis_CI_Tutorial)
 # How to Use Travis CI with Java on GitHub
 This repository is a demo of how to use [Travis CI](https://docs.travis-ci.com/) in a Java project on GitHub.
 
