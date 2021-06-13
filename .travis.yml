@@ -19,3 +19,6 @@ deploy:
     branch: tag
     repo: <ziyaozhang1437>/<Travis_CI_Tutorial>
 
+notifications:
+ email:
+   - 10195101437@stu.ecnu.edu.cn
